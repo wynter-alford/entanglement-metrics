@@ -19,4 +19,3 @@ function QFI = qfi(rho, op)
     end
     QFI= 2*real(QFI);
 end
-
