@@ -6,7 +6,7 @@
 % normalized one-particle input states up, down
 %
 % Can also be used to create a state with all spins aligned by using the
-% same state for up and down
+% same state for up and down and dividing the output by sqrt(2)
 
 function psi = ghz(N, up, down)
     psi1 = 1;
