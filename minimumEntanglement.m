@@ -5,7 +5,6 @@
 % Calculates minimum entanglement based on QFI-bar as defined in: 
 % Hyllus et. al, 2012 --- 10.1103/PhysRevA.85.022321
 %
-% Does not currently work properly (as best I can tell)
 
 function kmin = minimumEntanglement(FQbar,N)
     
